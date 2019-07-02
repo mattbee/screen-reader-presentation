@@ -51,11 +51,11 @@ ol li {
   width: 100%;
 }
 .preview h1 {
-  font-size: 4em;
-  margin-top: 3em;
+  font-size: 2em;
+  margin-top: 1em;
 }
 .preview h2 {
-  font-size: 3em;
+  font-size: 1.6em;
 }
 .preview .next {
   text-align: center;
